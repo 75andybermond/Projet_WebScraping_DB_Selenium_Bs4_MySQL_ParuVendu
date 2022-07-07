@@ -19,7 +19,7 @@
 |-------------------------|  --------|---|
 |WebScraping          |Récupérer l'ensemble des annonces et descriptions des biens ancien en Ile de France | Python / Selenium et BeautifulSoup|
 |Création d'une base de données et sa structure         |DB qui permettra de recevoir l'ensemble des data collectés par le Webscraping | MySQL|
-|Analyse des données         |Présenter différents axes d'analyses du dataset sur le prix des loyers, la surface...  |Python / Mathplotlib..|
+|Analyse des données         |Présenter les différents axes d'analyses du dataset sur le prix des loyers, la surface...  |Python / Mathplotlib..|
 |SQL les requetes         |Présentation d'une variété de requetes |SQL|
 |Github         |Création et démonstration de l'utilité d'un Github |Github|
 |Python        |Plusieurs Jupyter Notebooks pour expliquer le fonctionnement des scripts Python de base |Python|
