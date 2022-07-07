@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
-https://missionconseilia.atlassian.net/jira/software/projects/PPVSB/boards/3
+
 
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -23,6 +23,7 @@ https://missionconseilia.atlassian.net/jira/software/projects/PPVSB/boards/3
 |Création d'une base de données et sa structure         |DB qui permettra de recevoir l'ensemble des data collectés par le Webscraping | MySQL|
 |Analyse des données         |Présenter les différents axes d'analyses du dataset sur le prix des loyers, la surface...  |Python / Mathplotlib..|
 |SQL les requetes         |Présentation d'une variété de requetes |SQL|
+|Gestion de projet         |Mise en place d'un projet Jira pour garder une vision global de l'état d'avancement https://missionconseilia.atlassian.net/jira/software/projects/PPVSB/boards/3 | Jira|
 |Github         |Création et démonstration de l'utilité d'un Github |Github|
 |Python        |Plusieurs Jupyter Notebooks pour expliquer le fonctionnement des scripts Python de base |Python|
 |Retour sur le projet         |Conclusion globale et proposition |-|
